@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**BIEMAX/BIEMAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello padawan 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 Currently working on CWI Software LTDA
+- 🌱 Learning Spring Boot, .NET Core, Linux and web hacking
+- 👯 Currently developing open sources programs to help small business
+- 💬 Ask me about ERP, MRP, web services, SQL and NoSQL databases, integrations and project manager
+- 📫 How to reach me: [Instagram](https://www.instagram.com/itsbiemax/) or [LinkedIn](https://www.linkedin.com/in/dioneibeilke/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I Ride BMX every single day, and spent some time playing some games
+- :stuck_out_tongue_winking_eye: Extra: I'm a geek/nerd, you can call me every you want for
+
+
+And remember:
+
+#### **May be the force be with you** 
