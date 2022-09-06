@@ -1,6 +1,20 @@
-## Hello padawan 👋
+# Hello padawan <img height="24px" src="http://emojis.slackmojis.com/emojis/images/1493910372/2183/vader.png">
 
-Here are some things you can learn about me:
+##
+
+<div align="center">
+  <a href="https://github.com/phiandrade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BIEMAX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIEMAX&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  ##
+  
+  ![Snake animation](https://github.com/BIEMAX/BIEMAX/blob/output/github-contribution-grid-snake.svg)
+  
+ </div>
+
+## Here are some things you can learn about me:
 
 - 🔭 Currently working on CWI Software LTDA
 - 🌱 Learning Spring Boot, .NET Core, Linux and web hacking
