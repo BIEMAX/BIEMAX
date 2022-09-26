@@ -25,9 +25,15 @@
 - :stuck_out_tongue_winking_eye: Extra: I'm a geek/nerd, you can call me every you want for
 
 <div>
-  <a href="https://instagram.com/itsbiemax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tecnico.beilke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dioneibeilke/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/itsbiemax" rel="noopener noreferrer" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:tecnico.beilke@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/dioneibeilke/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
 </div>
 
 And remember:
