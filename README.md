@@ -15,7 +15,7 @@
 
 ## Here are some things you can learn about me:
 
-- 🔭 Currently working on CWI Software LTDA
+- 🔭 Currently working on SAP 
 - 🌱 Learning Spring Boot, .NET Core, Linux and web hacking
 - 👯 Currently developing open sources programs to help small business
 - 💬 Ask me about ERP, MRP, web services, SQL and NoSQL databases, integrations and project manager
