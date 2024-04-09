@@ -107,6 +107,9 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40" />
   </a>
+  <a href="https://bun.sh" target="_blank" rel="noreferrer">
+    <img src="https://bun.sh/logo-square.png" alt="bunjs" width="40" height="40" />
+  </a>
 </p>
 
 <h4 align="left">Mobile App Development</h4>
