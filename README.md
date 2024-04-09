@@ -10,8 +10,28 @@
 </div>
 
   -----------
+
+<div>
+  <h1 align="left">Connect with me</h1>
+  <a href="https://instagram.com/itsbiemax" rel="noopener noreferrer" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:tecnico.beilke@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/dioneibeilke/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/@dev_raiz" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+</div>
+
+  -----------
+
+<h1 align="left">Languages and Tools</h1>
   
-<h3 align="left">Programming Languages</h3>
+<h4 align="left">Programming Languages</h4>
 <p align="left">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -28,21 +48,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
 
-<h3 align="left">FrontEnd Development</h3>
+<h4 align="left">FrontEnd Development</h4>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
@@ -71,9 +85,12 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://babeljs.io/img/babel.svg" alt="babel" width="40" height="40" />
   </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+  </a>
 </p>
 
-<h3 align="left">BackEnd Development</h3>
+<h4 align="left">BackEnd Development</h4>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
@@ -92,7 +109,7 @@
   </a>
 </p>
 
-<h3 align="left">Mobile App Development</h3>
+<h4 align="left">Mobile App Development</h4>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -102,7 +119,7 @@
   </a>
 </p>
 
-<h3 align="left">AI/ML</h3>
+<h4 align="left">AI/ML</h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
@@ -115,7 +132,10 @@
 <p align="left">
 </p>
 
-<h3 align="left">Databases</h3>
+<h4 align="left">Databases</h4>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+  </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
   </a>
@@ -140,7 +160,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Devops</h3>
+<h4 align="left">Devops</h4>
 <p align="left">
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
@@ -150,6 +170,9 @@
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="azure" width="40" height="40" />
   </a>
 </p>
 
@@ -161,10 +184,19 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   </a>
+  <a href="https://vercel.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40" />
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40" />
+  </a>
+  <a href="https://po-ui.io/" target="_blank" rel="noreferrer">
+    <img src="https://po-ui.io/assets/po-logos/po_black.png" alt="po-ui" width="40" height="40" />
+  </a>
 </p>
 
 
-<h3 align="left">Framework</h3>
+<h4 align="left">Framework</h4>
 <p align="left">
   <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40" />
@@ -177,13 +209,13 @@
   </a>
 </p>
 
-
-<h3 align="left">Testing</h3>
+<!-- 
+<h4 align="left">Testing</h4>
 <p align="left">
-</p>
+</p> -->
 
 
-<h3 align="left">Software</h3>
+<h4 align="left">Tools</h4>
 <p align="left">
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
@@ -191,31 +223,33 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40" />
+  </a>
+
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="git" width="80" height="40" />
+  </a>
 </p>
 
-<h3 align="left">Others</h3>
+<h4 align="left">SO's</h4>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" alt="windows" width="40" height="40" />
   </a>
+  <a href="https://www.apple.com/br/macos/sonoma/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="linux" width="40" height="40" />
+  </a>
+  
 </p>
 
-
-<div>
-  <a href="https://instagram.com/itsbiemax" rel="noopener noreferrer" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:tecnico.beilke@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/dioneibeilke/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
-And remember:
-
-#### **May be the force be with you** 
+## And remember: **May be the force be with you**
