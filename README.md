@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/dioneibeilke/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.youtube.com/@dev_raiz" target="_blank">
+  <a href="https://www.youtube.com/@dev.dionei" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
 </div>
